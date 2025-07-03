@@ -1,7 +1,7 @@
 # PALMORA-GROUP-HR-ANALYSIS-PROJECT
 Examining HR records to identify gaps and opportunities in gender balance, pay equity, and fair bonus allocation across the organization.
 
-# PROJECT TOPIC: Palmora Group HR Analysis
+# PROJECT TOPIC: PALMORA GROUP HR ANALYSIS
 
 # PROJECT OVERVIEW:
 The goal of this project is to analyze and present patterns in gender balance, performance ratings, pay structure, and how bonuses are allocated within Palmoria Group.
