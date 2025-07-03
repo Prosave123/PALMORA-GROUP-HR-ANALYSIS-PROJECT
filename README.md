@@ -20,8 +20,8 @@ During the initial phase of data preparation, the following steps are carried ou
 
 # VISUALIZATION DASHBOARD 
 
+![Screenshot (386)](https://github.com/user-attachments/assets/3fce68d6-f5aa-48c0-abab-206613f06836)
 
-![image alt](https://github.com/Prosave123/PALMORA-GROUP-HR-ANALYSIS-PROJECT/blob/e753a285523f50b19fc0ea928e7329ca1ce91727/Screenshot%20(386).jpg)
 
 
 
