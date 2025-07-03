@@ -19,6 +19,7 @@ During the initial phase of data preparation, the following steps are carried ou
 - Assigned a generic gender label to employees who didn’t specify gender.
 
 # VISUALIZATION DASHBOARD 
+![Screenshot (386)](https://github.com/user-attachments/assets/a21019ba-761b-440f-bb8c-29327ae5ca2b)
 
 
 
