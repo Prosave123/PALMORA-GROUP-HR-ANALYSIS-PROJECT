@@ -18,7 +18,7 @@ During the initial phase of data preparation, the following steps are carried ou
 - Filtered out records of employees without salary data;  
 - Assigned a generic gender label to employees who didn’t specify gender.
 
-# VISUALIZATION DAS
+# VISUALIZATION DASHBOARD 
 
 
 
